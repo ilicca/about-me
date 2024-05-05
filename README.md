@@ -15,9 +15,28 @@
 <br/>
 <h1></h1>
 <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=ilicca&theme=github-compact" /> -->
-<img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" align="right" alt="coding" width="500"/>
+<img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" align="right" alt="coding" width="400"/>
 
-- 🔭  Working at <span style="color: blue">*IKEA*</span>
-- ✌️  Enyoj to do programming and sharing knowladge
-- 🐧  Linux / Bash / Vim / Terminal user
-- 📧  Reach me anytime: ilicca96@gmail.com
+- 🔭  &ensp;Working at ${\color{lightskyblue}IK\color{yellow}EA}$
+- ✌️  &ensp;Enyoj to do programming and sharing knowladge
+- 🐧  &ensp;Linux / Bash / Vim / Terminal user
+- 💬  &ensp;Ask me about Kotlin, Android, JetpackCompose
+- 📧  &ensp;Reach me anytime: ilicca96@gmail.com
+
+<div align="left">
+  <h3>Connect with me:</h3>
+  <a href="www.linkedin.com/in/aleksandar-ilić-5bab01181" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  
+
+  <a href="mailto:ilicca96@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>  
+
+
+  <a href="www.linkedin.com/in/aleksandar-ilić-5bab01181](https://github.com/ilicca/about-me/issues/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+  </a>  
+</div>
+
+
