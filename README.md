@@ -25,16 +25,15 @@
 
 <div align="left">
   <h3>Connect with me:</h3>
-  <a href="www.linkedin.com/in/aleksandar-ilić-5bab01181" target="_blank">
+  <a href="https://www.linkedin.com/in/aleksandar-ilić-5bab01181" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>  
 
-  <a href="mailto:ilicca96@gmail.com" target="_blank">
+  <a href="mailto:ilicca96@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
   </a>  
 
-
-  <a href="www.linkedin.com/in/aleksandar-ilić-5bab01181](https://github.com/ilicca/about-me/issues/" target="_blank">
+  <a href="https://github.com/ilicca/about-me/issues/" target="blank">
   <img src="https://skillicons.dev/icons?i=github" />
   </a>  
 </div>
